@@ -1,0 +1,423 @@
+paper_id	year	title	in_scope	secondary	E_tags	pdf_path
+doi:10.1038/s42256-024-00963-y	2025	Visual cognition in multimodal large language models	no	yes	E4,E5	papers_openalex_llm_xai/10.1038_s42256-024-00963-y.pdf
+doi:10.7759/cureus.82397	2025	Understanding Large Language Models in Healthcare: A Guide to Clinical Implementation and Interpreting Publications	no	yes	E2,E5	papers_openalex_llm_xai/10.7759_cureus.82397.pdf
+doi:10.1038/s41746-025-02071-6	2025	Uncertainty-aware large language models for explainable disease diagnosis	yes	yes	E2,E3	papers_openalex_llm_xai/10.1038_s41746-025-02071-6.pdf
+doi:10.1038/s41586-025-08866-7	2025	Towards conversational diagnostic artificial intelligence	no	yes	E2,E5	papers_openalex_llm_xai/10.1038_s41586-025-08866-7.pdf
+doi:10.1609/aaai.v39i28.35374	2025	TRACE-CS: A Synergistic Approach to Explainable Course Scheduling Using LLMs and Logic	yes	no	E3	papers_openalex_llm_xai/10.1609_aaai.v39i28.35374.pdf
+doi:10.1038/s41539-025-00301-w	2025	On opportunities and challenges of large multimodal foundation models in education	no	yes		papers_openalex_llm_xai/10.1038_s41539-025-00301-w.pdf
+doi:10.3389/fdata.2024.1505284	2025	On explaining recommendations with Large Language Models: a review	yes	yes		papers_openalex_llm_xai/10.3389_fdata.2024.1505284.pdf
+doi:10.59324/stss.2025.2(7).02	2025	Navigating the Labyrinth: A Review of Explainability and Trustworthiness in Large Language Model-Powered Systems for Sensitive Decision-Making	yes	yes	E1,E3	papers_openalex_llm_xai/10.59324_stss.2025.2_7_.02.pdf
+doi:10.2478/jdis-2025-0046	2025	Multimodal detection framework for financial fraud integrating LLMs and interpretable machine learning	yes	no		papers_openalex_llm_xai/10.2478_jdis-2025-0046.pdf
+doi:10.1109/tvcg.2025.3633884	2025	MisVisFix: An Interactive Dashboard for Detecting, Explaining, and Correcting Misleading Visualizations using Large Language Models	yes	no	E4	papers_openalex_llm_xai/10.1109_tvcg.2025.3633884.pdf
+doi:10.7150/ijms.111780	2025	Large Language Models in Medicine: Applications, Challenges, and Future Directions	yes	yes	E2,E5	papers_openalex_llm_xai/10.7150_ijms.111780.pdf
+doi:10.1057/s41599-025-04633-1	2025	Interpreting text corpora from androids-related stories using large language models: “Machines like me” by Ian McEwan in generative AI	no	no	E4	papers_openalex_llm_xai/10.1057_s41599-025-04633-1.pdf
+doi:10.1609/aaai.v39i9.33073	2025	Interpretable Face Anti-Spoofing: Enhancing Generalization with Multimodal Large Language Models	yes	no	E1,E5	papers_openalex_llm_xai/10.1609_aaai.v39i9.33073.pdf
+doi:10.1609/aaai.v39i8.32908	2025	ICM-Assistant: Instruction-tuning Multimodal Large Language Models for Rule-based Explainable Image Content Moderation	yes	no	E4,E6	papers_openalex_llm_xai/10.1609_aaai.v39i8.32908.pdf
+doi:10.1038/s42004-024-01393-y	2025	Human interpretable structure-property relationships in chemistry using explainable machine learning and large language models	yes	no	E5	papers_openalex_llm_xai/10.1038_s42004-024-01393-y.pdf
+doi:10.1609/aaai.v39i16.33843	2025	Extracting Interpretable Task-Specific Circuits from Large Language Models for Faster Inference	yes	no	E5	papers_openalex_llm_xai/10.1609_aaai.v39i16.33843.pdf
+doi:10.18608/jla.2025.8885	2025	Exploring Fairness and Explainability in LLM-Generated Support for Online Learning Discussion Forums	yes	no		papers_openalex_llm_xai/10.18608_jla.2025.8885.pdf
+doi:10.1038/s44401-025-00015-6	2025	Explainable differential diagnosis with dual-inference large language models	yes	no	E2,E4	papers_openalex_llm_xai/10.1038_s44401-025-00015-6.pdf
+doi:10.1038/s41598-025-25406-5	2025	Explainable AI with fine-tuned large language models for sustainable cultural heritage management	yes	no	E5	papers_openalex_llm_xai/10.1038_s41598-025-25406-5.pdf
+doi:10.52783/jisem.v10i16s.2648	2025	Explainability and Interpretability of Large Language Models in Critical Applications	yes	no	E1,E2,E3	papers_openalex_llm_xai/10.52783_jisem.v10i16s.2648.pdf
+doi:10.1038/s41746-025-01684-1	2025	Evaluating large language model workflows in clinical decision support for triage and referral and diagnosis	yes	no	E2,E4,E5	papers_openalex_llm_xai/10.1038_s41746-025-01684-1.pdf
+doi:10.63332/joph.v5i4.1089	2025	Ethical Alignment in Large Language Models: Interpreting Moral Reasoning in Transformer-Based AI Systems	yes	yes		papers_openalex_llm_xai/10.63332_joph.v5i4.1089.pdf
+doi:10.52783/jisem.v10i33s.5566	2025	Enhancing Explainability in AI Models: A Quantitative Comparison of XAI Techniques for Large Language Models and Healthcare Applications	yes	no	E2,E3	papers_openalex_llm_xai/10.52783_jisem.v10i33s.5566.pdf
+doi:10.55248/gengpi.6.0525.1615	2025	Developing Interpretable Large Language Models for High-Stakes Decision-Making in Healthcare: Insights from an XAI Review Perspective	yes	yes	E1,E2,E4,E6	papers_openalex_llm_xai/10.55248_gengpi.6.0525.1615.pdf
+doi:10.1186/s13244-025-02121-3	2025	Comparative Evaluation of Large Language Models in Explaining Radiology Reports: Expert Assessment of Readability, Understandability, and Communication Features	yes	no	E2,E4,E5	papers_openalex_llm_xai/10.1186_s13244-025-02121-3.pdf
+doi:10.1609/aaai.v39i11.33329	2025	Coherency Improved Explainable Recommendation via Large Language Model	yes	no		papers_openalex_llm_xai/10.1609_aaai.v39i11.33329.pdf
+doi:10.1038/s41467-025-67084-x	2025	CASSIA: a multi-agent large language model for automated and interpretable cell annotation	yes	no	E4	papers_openalex_llm_xai/10.1038_s41467-025-67084-x.pdf
+doi:10.1609/aaai.v39i14.33637	2025	Argumentative Large Language Models for Explainable and Contestable Claim Verification	yes	no	E4	papers_openalex_llm_xai/10.1609_aaai.v39i14.33637.pdf
+doi:10.3389/frai.2025.1609097	2025	An overview of model uncertainty and variability in LLM-based sentiment analysis: challenges, mitigation strategies, and the role of explainability	yes	yes	E3,E4	papers_openalex_llm_xai/10.3389_frai.2025.1609097.pdf
+doi:10.1186/s13321-025-00979-5	2025	An interpretable deep geometric learning model to predict the effects of mutations on protein–protein interactions using large-scale protein language model	no	no	E5	papers_openalex_llm_xai/10.1186_s13321-025-00979-5.pdf
+doi:10.70777/si.v2i3.15161	2025	AI Agents vs. Agentic AI: A Conceptual Taxonomy, Applications and Challenges	no	no		papers_openalex_llm_xai/10.70777_si.v2i3.15161.pdf
+doi:10.1186/s40537-025-01093-x	2025	A reasoning based explainable multimodal fake news detection for low resource language using large language models and transformers	yes	no	E1	papers_openalex_llm_xai/10.1186_s40537-025-01093-x.pdf
+doi:10.2478/jaiscr-2025-0007	2025	A Comprehensive Survey of Retrieval-Augmented Large Language Models for Decision Making in Agriculture: Unsolved Problems and Research Opportunities	no	yes		papers_openalex_llm_xai/10.2478_jaiscr-2025-0007.pdf
+doi:10.1186/s40537-024-00928-3	2024	Xai-driven knowledge distillation of large language models for efficient deployment on low-resource devices	yes	no	E1,E4	papers_openalex_llm_xai/10.1186_s40537-024-00928-3.pdf
+doi:10.3389/frai.2024.1341697	2024	The perils and promises of fact-checking with large language models	yes	no	E6	papers_openalex_llm_xai/10.3389_frai.2024.1341697.pdf
+doi:10.1038/s44271-023-00045-6	2024	The Russian war in Ukraine increased Ukrainian language use on social media	no	no		papers_openalex_llm_xai/10.1038_s44271-023-00045-6.pdf
+doi:10.1038/s41562-024-01882-z	2024	Testing theory of mind in large language models and humans	no	no	E1,E2,E4	papers_openalex_llm_xai/10.1038_s41562-024-01882-z.pdf
+doi:10.1609/icwsm.v18i1.31360	2024	Stance Detection with Collaborative Role-Infused LLM-Based Agents	yes	no	E4	papers_openalex_llm_xai/10.1609_icwsm.v18i1.31360.pdf
+doi:10.1609/aaai.v38i19.30160	2024	Sparsity-Guided Holistic Explanation for LLMs with Interpretable Inference-Time Intervention	yes	no		papers_openalex_llm_xai/10.1609_aaai.v38i19.30160.pdf
+doi:10.5204/lthj.3483	2024	Prompts and Large Language Models: A New Tool for Drafting, Reviewing and Interpreting Contracts?	no	no	E4	papers_openalex_llm_xai/10.5204_lthj.3483.pdf
+doi:10.14569/ijacsa.2024.0150168	2024	Practical Application of AI and Large Language Models in Software Engineering Education	no	no	E2,E3	papers_openalex_llm_xai/10.14569_ijacsa.2024.0150168.pdf
+doi:10.1148/ryai.230364	2024	Performance of an Open-Source Large Language Model in Extracting Information from Free-Text Radiology Reports	yes	no	E2	papers_openalex_llm_xai/10.1148_ryai.230364.pdf
+doi:10.1609/aaai.v38i5.28308	2024	PathAsst: A Generative Foundation AI Assistant towards Artificial General Intelligence of Pathology	yes	no	E2	papers_openalex_llm_xai/10.1609_aaai.v38i5.28308.pdf
+doi:10.54254/2755-2721/67/2024ma0060	2024	Optimization techniques for sentiment analysis based on LLM (GPT-3)	no	yes		papers_openalex_llm_xai/10.54254_2755-2721_67_2024ma0060.pdf
+doi:10.1038/s41598-024-82111-5	2024	Novel approach for Arabic fake news classification using embedding from large language features with CNN-LSTM ensemble model and explainable AI	yes	no		papers_openalex_llm_xai/10.1038_s41598-024-82111-5.pdf
+doi:10.2196/54607	2024	Multimodal ChatGPT-4V for Electrocardiogram Interpretation: Promise and Limitations	maybe	no	E2,E4,E6	papers_openalex_llm_xai/10.2196_54607.pdf
+doi:10.3389/fmed.2024.1477898	2024	Large language models in patient education: a scoping review of applications in medicine	yes	yes	E2	papers_openalex_llm_xai/10.3389_fmed.2024.1477898.pdf
+doi:10.3389/frai.2024.1460364	2024	Large language models for whole-learner support: opportunities and challenges	no	yes		papers_openalex_llm_xai/10.3389_frai.2024.1460364.pdf
+doi:10.1609/aaai.v38i17.29887	2024	LLMRG: Improving Recommendations through Large Language Model Reasoning Graphs	yes	no		papers_openalex_llm_xai/10.1609_aaai.v38i17.29887.pdf
+doi:10.1609/aies.v7i1.31758	2024	LLM Voting: Human Choices and AI Collective Decision-Making	yes	no	E4,E6	papers_openalex_llm_xai/10.1609_aies.v7i1.31758.pdf
+doi:10.1109/tvcg.2024.3368060	2024	LEVA: Using Large Language Models to Enhance Visual Analytics	yes	no	E4,E5	papers_openalex_llm_xai/10.1109_tvcg.2024.3368060.pdf
+doi:10.47392/irjaeh.2024.0206	2024	Investigating the Evolving Landscape of Deepfake Technology: Generative AI's Role in it's Generation and Detection	no	yes		papers_openalex_llm_xai/10.47392_irjaeh.2024.0206.pdf
+doi:10.1609/aaai.v38i20.30232	2024	Interpretable Long-Form Legal Question Answering with Retrieval-Augmented Large Language Models	yes	no	E5	papers_openalex_llm_xai/10.1609_aaai.v38i20.30232.pdf
+doi:10.1038/s44172-024-00271-8	2024	Interactive computer-aided diagnosis on medical image using large language models	yes	no	E2,E4	papers_openalex_llm_xai/10.1038_s44172-024-00271-8.pdf
+doi:10.1162/99608f92.5317da47	2024	How Is ChatGPT’s Behavior Changing Over Time?	yes	no	E4,E5	papers_openalex_llm_xai/10.1162_99608f92.5317da47.pdf
+doi:10.1609/aaai.v38i8.28777	2024	Fine-Tuning Large Language Model Based Explainable Recommendation with Explainable Quality Reward	yes	no	E4	papers_openalex_llm_xai/10.1609_aaai.v38i8.28777.pdf
+doi:10.1038/s41591-024-03097-1	2024	Evaluation and mitigation of the limitations of large language models in clinical decision-making	yes	no	E2,E5,E6	papers_openalex_llm_xai/10.1038_s41591-024-03097-1.pdf
+doi:10.2196/58158	2024	Evaluating and Enhancing Large Language Models’ Performance in Domain-Specific Medicine: Development and Usability Study With DocOA	yes	no	E2,E4	papers_openalex_llm_xai/10.2196_58158.pdf
+doi:10.2196/60083	2024	Ethical Considerations and Fundamental Principles of Large Language Models in Medical Education: Viewpoint	yes	yes	E5	papers_openalex_llm_xai/10.2196_60083.pdf
+doi:10.21275/sr24710062038	2024	Ethical Considerations and Best Practices for Using Large Language Models in Decision - Making	no	yes	E2,E5	papers_openalex_llm_xai/10.21275_sr24710062038.pdf
+doi:10.1038/s41598-024-77916-3	2024	Enhancing intention prediction and interpretability in service robots with LLM and KG	yes	no	E5	papers_openalex_llm_xai/10.1038_s41598-024-77916-3.pdf
+doi:10.30953/thmt.v9.485	2024	Discussing the Role of Explainable AI and Evaluation Frameworks for Safe and Effective Integration of Large Language Models in Healthcare	no	yes	E5	papers_openalex_llm_xai/10.30953_thmt.v9.485.pdf
+doi:10.1038/s41746-024-01010-1	2024	Diagnostic reasoning prompts reveal the potential for large language model interpretability in medicine	yes	no	E1,E2,E4	papers_openalex_llm_xai/10.1038_s41746-024-01010-1.pdf
+doi:10.1038/s41598-024-65080-7	2024	Comparing human text classification performance and explainability with large language and machine learning models using eye-tracking	yes	no	E1,E4,E5	papers_openalex_llm_xai/10.1038_s41598-024-65080-7.pdf
+doi:10.1186/s13000-024-01464-7	2024	Challenges and barriers of using large language models (LLM) such as ChatGPT for diagnostic medicine with a focus on digital pathology – a recent scoping review	yes	yes	E2,E5	papers_openalex_llm_xai/10.1186_s13000-024-01464-7.pdf
+doi:10.1609/aaaiss.v4i1.31764	2024	Cause and Effect: Can Large Language Models Truly Understand Causality?	yes	no	E5	papers_openalex_llm_xai/10.1609_aaaiss.v4i1.31764.pdf
+doi:10.1609/aaai.v38i3.27999	2024	BLIVA: A Simple Multimodal LLM for Better Handling of Text-Rich Visual Questions	no	yes	E5	papers_openalex_llm_xai/10.1609_aaai.v38i3.27999.pdf
+doi:10.1609/aaai.v38i21.30470	2024	Automated Assessment of Fidelity and Interpretability: An Evaluation Framework for Large Language Models’ Explanations (Student Abstract)	yes	no	E1,E4	papers_openalex_llm_xai/10.1609_aaai.v38i21.30470.pdf
+doi:10.3389/fpsyt.2024.1422807	2024	Applications of large language models in psychiatry: a systematic review	yes	yes	E2,E4,E5	papers_openalex_llm_xai/10.3389_fpsyt.2024.1422807.pdf
+doi:10.1186/s12938-024-01212-4	2024	Advantages of transformer and its application for medical image segmentation: a survey	no	yes	E5	papers_openalex_llm_xai/10.1186_s12938-024-01212-4.pdf
+doi:10.1088/1361-6560/ad387d	2024	Advancing medical imaging with language models: featuring a spotlight on ChatGPT	yes	yes	E2,E4	papers_openalex_llm_xai/10.1088_1361-6560_ad387d.pdf
+doi:10.3389/frai.2024.1406773	2024	Accelerating human–computer interaction through convergent conditions for LLM explanation	yes	yes	E1,E5	papers_openalex_llm_xai/10.3389_frai.2024.1406773.pdf
+doi:10.1038/s41746-023-00957-x	2023	Zero-shot interpretable phenotyping of postpartum hemorrhage using large language models	yes	no	E2	papers_openalex_llm_xai/10.1038_s41746-023-00957-x.pdf
+doi:10.5964/bioling.13153	2023	Why large language models are poor theories of human linguistic cognition: A reply to Piantadosi	no	yes		papers_openalex_llm_xai/10.5964_bioling.13153.pdf
+doi:10.7759/cureus.43262	2023	Unraveling the Ethical Enigma: Artificial Intelligence in Healthcare	yes	yes	E1,E2,E3,E5	papers_openalex_llm_xai/10.7759_cureus.43262.pdf
+doi:10.7759/cureus.36272	2023	The Capability of ChatGPT in Predicting and Explaining Common Drug-Drug Interactions	yes	no	E2,E3,E4	papers_openalex_llm_xai/10.7759_cureus.36272.pdf
+doi:10.1609/aiide.v19i1.27504	2023	SceneCraft: Automating Interactive Narrative Scene Generation in Digital Games with Large Language Models	no	yes	E4,E5	papers_openalex_llm_xai/10.1609_aiide.v19i1.27504.pdf
+doi:10.4204/eptcs.385.27	2023	Reliable Natural Language Understanding with Large Language Models and Answer Set Programming	yes	no	E5	papers_openalex_llm_xai/10.4204_eptcs.385.27.pdf
+doi:10.3389/frobt.2023.1271610	2023	Real-time emotion generation in human-robot dialogue using large language models	no	yes	E4	papers_openalex_llm_xai/10.3389_frobt.2023.1271610.pdf
+doi:10.2519/jospt.2023.12000	2023	Pros and Cons of Using Artificial Intelligence Chatbots for Musculoskeletal Rehabilitation Management	no	yes	E2,E3,E5	papers_openalex_llm_xai/10.2519_jospt.2023.12000.pdf
+doi:10.1371/journal.pdig.0000198	2023	Performance of ChatGPT on USMLE: Potential for AI-assisted medical education using large language models	yes	no	E1,E2,E4,E5,E6	papers_openalex_llm_xai/10.1371_journal.pdig.0000198.pdf
+doi:10.1038/s42256-023-00626-4	2023	Parameter-efficient fine-tuning of large-scale pre-trained language models	no	yes	E4	papers_openalex_llm_xai/10.1038_s42256-023-00626-4.pdf
+doi:10.1038/s41598-023-32248-6	2023	Overlap in meaning is a stronger predictor of semantic activation in GPT-3 than in humans	yes	no	E5	papers_openalex_llm_xai/10.1038_s41598-023-32248-6.pdf
+doi:10.1038/s41586-023-06924-6	2023	Mathematical discoveries from program search with large language models	yes	yes	E4	papers_openalex_llm_xai/10.1038_s41586-023-06924-6.pdf
+doi:10.1038/s41586-023-06291-2	2023	Large language models encode clinical knowledge	yes	yes	E1,E2,E5	papers_openalex_llm_xai/10.1038_s41586-023-06291-2.pdf
+doi:10.2196/49324	2023	Large Language Models for Therapy Recommendations Across 3 Clinical Specialties: Comparative Study	yes	no	E2,E3,E4,E5	papers_openalex_llm_xai/10.2196_49324.pdf
+doi:10.3389/feduc.2023.1272229	2023	Is GPT-4 a reliable rater? Evaluating consistency in GPT-4's text ratings	yes	no	E4	papers_openalex_llm_xai/10.3389_feduc.2023.1272229.pdf
+doi:10.2196/45312	2023	How Does ChatGPT Perform on the United States Medical Licensing Examination (USMLE)? The Implications of Large Language Models for Medical Education and Knowledge Assessment	yes	no	E1,E2,E3,E4,E6	papers_openalex_llm_xai/10.2196_45312.pdf
+doi:10.1007/s40593-023-00340-7	2023	GPT-3-Driven Pedagogical Agents to Train Children’s Curious Question-Asking Skills	no	yes	E4	papers_openalex_llm_xai/10.1007_s40593-023-00340-7.pdf
+doi:10.1186/s40561-023-00273-7	2023	Exploring the potential of using ChatGPT in physics education	no	yes	E4,E5	papers_openalex_llm_xai/10.1186_s40561-023-00273-7.pdf
+doi:10.1609/aaai.v37i13.27014	2023	Explaining Large Language Model-Based Neural Semantic Parsers (Student Abstract)	yes	no	E6	papers_openalex_llm_xai/10.1609_aaai.v37i13.27014.pdf
+doi:10.3389/fonc.2023.1219326	2023	Evaluating large language models on a highly-specialized topic, radiation oncology physics	yes	no	E2,E4,E5,E6	papers_openalex_llm_xai/10.3389_fonc.2023.1219326.pdf
+doi:10.37547/tajet/volume05issue12-13	2023	Ethical Considerations of LLM-Driven Quantum Code Generation for Optimization Tasks	no	no	E4,E5	papers_openalex_llm_xai/10.37547_tajet_volume05issue12-13.pdf
+doi:10.2196/54369	2023	Capacity of Generative AI to Interpret Human Emotions From Visual and Textual Data: Pilot Evaluation Study	no	no		papers_openalex_llm_xai/10.2196_54369.pdf
+doi:10.1038/s41586-023-06792-0	2023	Autonomous chemical research with large language models	no	no	E5	papers_openalex_llm_xai/10.1038_s41586-023-06792-0.pdf
+doi:10.2196/48996	2023	Automated Paper Screening for Clinical Reviews Using Large Language Models: Data Analysis Study	yes	yes	E1,E2,E4	papers_openalex_llm_xai/10.2196_48996.pdf
+doi:10.1038/s41467-023-43713-1	2023	Augmenting interpretable models with large language models during training	yes	no	E2,E5	papers_openalex_llm_xai/10.1038_s41467-023-43713-1.pdf
+doi:10.2196/48254	2023	Assessing Health Students' Attitudes and Usage of ChatGPT in Jordan: Validation Study	no	yes	E5	papers_openalex_llm_xai/10.2196_48254.pdf
+doi:10.1038/s41586-023-06734-w	2023	An autonomous laboratory for the accelerated synthesis of inorganic materials	no	yes	E5	papers_openalex_llm_xai/10.1038_s41586-023-06734-w.pdf
+doi:10.18653/v1/2022.acl-long.247	2022	Upstream Mitigation Is Not All You Need: Testing the Bias Transfer Hypothesis in Pre-Trained Language Models	maybe	no	E5	papers_openalex_llm_xai/10.18653_v1_2022.acl-long.247.pdf
+doi:10.18653/v1/2022.acl-long.346	2022	SPoT: Better Frozen Model Adaptation through Soft Prompt Transfer	no	no	E4	papers_openalex_llm_xai/10.18653_v1_2022.acl-long.346.pdf
+doi:10.1016/j.artint.2022.103822	2022	Logic Explained Networks	no	yes	E4,E5	papers_openalex_llm_xai/10.1016_j.artint.2022.103822.pdf
+doi:10.1038/s41467-022-28595-z	2022	General statistical model shows that macroevolutionary patterns and processes are consistent with Darwinian gradualism	no	no	E5	papers_openalex_llm_xai/10.1038_s41467-022-28595-z.pdf
+doi:10.1038/s41746-022-00742-2	2022	A large language model for electronic health records	yes	no	E2,E5	papers_openalex_llm_xai/10.1038_s41746-022-00742-2.pdf
+doi:10.1038/s41467-024-45563-x	2024	Structured information extraction from scientific text with large language models	maybe	no		papers_openalex_llm_xai/10.1038_s41467-024-45563-x.pdf
+doi:10.1007/s10458-024-09663-8	2024	From large language models to small logic programs: building global explanations from disagreeing local post-hoc explainers	yes	no	E1	papers_openalex_llm_xai/10.1007_s10458-024-09663-8.pdf
+doi:10.1609/aaai.v39i24.34757	2025	ReFF: Reinforcing Format Faithfulness in Language Models Across Varied Tasks	yes	no		papers_openalex_llm_xai/10.1609_aaai.v39i24.34757.pdf
+doi:10.2196/53008	2024	Generative AI in Medical Practice: In-Depth Exploration of Privacy and Security Challenges	maybe	no	E5	papers_openalex_llm_xai/10.2196_53008.pdf
+doi:10.18559/ebr.2023.2.743	2023	Challenges for higher education in the era of widespread access to generative AI	maybe	no		papers_openalex_llm_xai/10.18559_ebr.2023.2.743.pdf
+doi:10.1007/s40547-024-00143-4	2024	Sentiment Analysis in the Age of Generative AI	maybe	no		papers_openalex_llm_xai/10.1007_s40547-024-00143-4.pdf
+doi:10.1186/s12911-024-02459-6	2024	Assessing the research landscape and clinical utility of large language models: a scoping review	maybe	yes	E2	papers_openalex_llm_xai/10.1186_s12911-024-02459-6.pdf
+doi:10.1038/s42256-023-00692-8	2023	Explaining machine learning models with interactive natural language conversations using TalkToModel	yes	no		papers_openalex_llm_xai/10.1038_s42256-023-00692-8.pdf
+doi:10.1038/s41746-025-01670-7	2025	A framework to assess clinical safety and hallucination rates of LLMs for medical text summarisation	maybe	no	E2	papers_openalex_llm_xai/10.1038_s41746-025-01670-7.pdf
+doi:10.1609/aaai.v38i16.29770	2024	Mitigating Large Language Model Hallucinations via Autonomous Knowledge Graph-Based Retrofitting	yes	no		papers_openalex_llm_xai/10.1609_aaai.v38i16.29770.pdf
+doi:10.1007/s41019-023-00235-6	2024	DB-GPT: Large Language Model Meets Database	maybe	no		papers_openalex_llm_xai/10.1007_s41019-023-00235-6.pdf
+doi:10.1038/s43246-024-00449-9	2024	Accelerating materials language processing with large language models	maybe	no		papers_openalex_llm_xai/10.1038_s43246-024-00449-9.pdf
+doi:10.1038/s41746-024-01190-w	2024	Orchestrating explainable artificial intelligence for multimodal and longitudinal data in medical imaging	yes	no	E2	papers_openalex_llm_xai/10.1038_s41746-024-01190-w.pdf
+doi:10.1613/jair.1.15348	2024	Human-in-the-Loop Reinforcement Learning: A Survey and Position on Requirements, Challenges, and Opportunities	maybe	yes		papers_openalex_llm_xai/10.1613_jair.1.15348.pdf
+doi:10.62411/jcta.9447	2024	A Comparative Analysis of Generative Artificial Intelligence Tools for Natural Language Processing	maybe	no		papers_openalex_llm_xai/10.62411_jcta.9447.pdf
+doi:10.18653/v1/2022.naacl-main.47	2022	Reframing Human-AI Collaboration for Generating Free-Text Explanations	yes	no		papers_openalex_llm_xai/10.18653_v1_2022.naacl-main.47.pdf
+doi:10.1007/s44230-023-00038-y	2023	Survey on Explainable AI: From Approaches, Limitations and Applications Aspects	yes	yes		papers_openalex_llm_xai/10.1007_s44230-023-00038-y.pdf
+doi:10.1007/s41669-024-00477-8	2024	Artificial Intelligence to Automate Health Economic Modelling: A Case Study to Evaluate the Potential Application of Large Language Models	maybe	no		papers_openalex_llm_xai/10.1007_s41669-024-00477-8.pdf
+doi:10.1371/journal.pone.0298522	2024	Large language models are able to downplay their cognitive abilities to fit the persona they simulate	maybe	no		papers_openalex_llm_xai/10.1371_journal.pone.0298522.pdf
+doi:10.1186/s40561-024-00354-1	2024	Harnessing large language models to develop research-based learning assistants for formative feedback	maybe	no		papers_openalex_llm_xai/10.1186_s40561-024-00354-1.pdf
+doi:10.1609/aaai.v38i17.29863	2024	RewriteLM: An Instruction-Tuned Large Language Model for Text Rewriting	maybe	no		papers_openalex_llm_xai/10.1609_aaai.v38i17.29863.pdf
+doi:10.1609/aaai.v38i19.30178	2024	Efficient Toxic Content Detection by Bootstrapping and Distilling Large Language Models	maybe	no		papers_openalex_llm_xai/10.1609_aaai.v38i19.30178.pdf
+doi:10.3389/fmed.2024.1512329	2025	Research on a traditional Chinese medicine case-based question-answering system integrating large language models and knowledge graphs	yes	no	E2	papers_openalex_llm_xai/10.3389_fmed.2024.1512329.pdf
+doi:10.51219/jaimld/oluwole-fagbohun/15	2023	An Empirical Categorization of Prompting Techniques for Large Language Models: A Practitioner’s Guide	maybe	no	E4	papers_openalex_llm_xai/10.51219_jaimld_oluwole-fagbohun_15.pdf
+doi:10.1007/s12599-025-00945-3	2025	Retrieval-Augmented Generation (RAG)	maybe	no		papers_openalex_llm_xai/10.1007_s12599-025-00945-3.pdf
+doi:10.1038/s41598-024-56648-4	2024	STELA: a community-centred approach to norm elicitation for AI alignment	maybe	no		papers_openalex_llm_xai/10.1038_s41598-024-56648-4.pdf
+doi:10.1371/journal.pone.0300024	2024	Framework-based qualitative analysis of free responses of Large Language Models: Algorithmic fidelity	yes	no		papers_openalex_llm_xai/10.1371_journal.pone.0300024.pdf
+doi:10.1038/s44387-025-00019-5	2025	Exploring the role of large language models in the scientific method: from hypothesis to discovery	maybe	no		papers_openalex_llm_xai/10.1038_s44387-025-00019-5.pdf
+doi:10.3389/frai.2024.1464690	2025	Fostering effective hybrid human-LLM reasoning and decision making	maybe	no		papers_openalex_llm_xai/10.3389_frai.2024.1464690.pdf
+doi:10.1057/s41599-023-02119-6	2023	ChatGPT as a COBUILD lexicographer	maybe	no		papers_openalex_llm_xai/10.1057_s41599-023-02119-6.pdf
+doi:10.1613/jair.1.16665	2025	Detecting AI-Generated Text: Factors Influencing Detectability with Current Methods	maybe	no		papers_openalex_llm_xai/10.1613_jair.1.16665.pdf
+doi:10.1371/journal.pdig.0000685	2024	Evaluating Large Language Models in extracting cognitive exam dates and scores	maybe	no	E6	papers_openalex_llm_xai/10.1371_journal.pdig.0000685.pdf
+doi:10.1609/aaai.v38i17.29839	2024	STAR: Boosting Low-Resource Information Extraction by Structure-to-Text Data Generation with Large Language Models	maybe	no		papers_openalex_llm_xai/10.1609_aaai.v38i17.29839.pdf
+doi:10.1613/jair.1.15407	2024	Computational Argumentation-based Chatbots: A Survey	maybe	yes		papers_openalex_llm_xai/10.1613_jair.1.15407.pdf
+doi:10.1007/s10462-024-11078-6	2025	Digital forgetting in large language models: a survey of unlearning methods	maybe	yes		papers_openalex_llm_xai/10.1007_s10462-024-11078-6.pdf
+doi:10.1609/aaai.v38i20.30280	2024	Making Natural Language Reasoning Explainable and Faithful	yes	no		papers_openalex_llm_xai/10.1609_aaai.v38i20.30280.pdf
+doi:10.1609/icwsm.v18i1.31437	2024	AiGen-FoodReview: A Multimodal Dataset of Machine-Generated Restaurant Reviews and Images on Social Media	maybe	no		papers_openalex_llm_xai/10.1609_icwsm.v18i1.31437.pdf
+doi:10.1609/aaai.v38i17.29881	2024	Improving the Robustness of Knowledge-Grounded Dialogue via Contrastive Learning	maybe	no		papers_openalex_llm_xai/10.1609_aaai.v38i17.29881.pdf
+doi:10.32473/flairs.38.1.138892	2025	Exploring the Potential for Large Language Models to Demonstrate Rational Probabilistic Beliefs	maybe	no		papers_openalex_llm_xai/10.32473_flairs.38.1.138892.pdf
+doi:10.1038/s41598-025-85715-7	2025	A scientific-article key-insight extraction system based on multi-actor of fine-tuned open-source large language models	maybe	no		papers_openalex_llm_xai/10.1038_s41598-025-85715-7.pdf
+doi:10.47941/ijf.1646	2024	Integrating Algorithmic Decision Making into Small Business Credit Initiatives: a path to Enhanced Efficiency and Inclusive Economic Growth	maybe	no		papers_openalex_llm_xai/10.47941_ijf.1646.pdf
+doi:10.55041/ijsrem53123	2025	Explainable GENAI Techniques to Interpret and Visualize LLM Reasoning	yes	no		papers_openalex_llm_xai/10.55041_ijsrem53123.pdf
+doi:10.3389/fpsyg.2024.1382234	2024	Suggestive answers strategy in human-chatbot interaction: a route to engaged critical decision making	maybe	no		papers_openalex_llm_xai/10.3389_fpsyg.2024.1382234.pdf
+doi:10.62019/x6sz1d43	2025	An Enhanced Textual Review Classification and Sentiment Analysis Approach based on Machine Learning: A Comprehensive Analysis for Text Categorization Approaches	maybe	no		papers_openalex_llm_xai/10.62019_x6sz1d43.pdf
+doi:10.1007/s11831-022-09836-2	2023	A Review of Image-Based Simulation Applications in High-Value Manufacturing	maybe	no		papers_openalex_llm_xai/10.1007_s11831-022-09836-2.pdf
+doi:10.1609/aaai.v38i17.29859	2024	OntoFact: Unveiling Fantastic Fact-Skeleton of LLMs via Ontology-Driven Reinforcement Learning	maybe	no		papers_openalex_llm_xai/10.1609_aaai.v38i17.29859.pdf
+doi:10.1007/s10994-025-06852-8	2025	Toward practical human-interpretable explanations	yes	no		papers_openalex_llm_xai/10.1007_s10994-025-06852-8.pdf
+doi:10.1007/s11704-024-40231-1	2024	A survey on large language model based autonomous agents	maybe	yes		papers_openalex_llm_xai/10.1007_s11704-024-40231-1.pdf
+doi:10.1007/s11846-023-00696-z	2023	The GenAI is out of the bottle: generative artificial intelligence from a business model innovation perspective	maybe	yes		papers_openalex_llm_xai/10.1007_s11846-023-00696-z.pdf
+doi:10.1039/d3dd00113j	2023	14 examples of how LLMs can transform materials science and chemistry: a reflection on a large language model hackathon	maybe	no	E6	papers_openalex_llm_xai/10.1039_d3dd00113j.pdf
+doi:10.1007/s12525-023-00680-1	2023	Generative artificial intelligence	maybe	no		papers_openalex_llm_xai/10.1007_s12525-023-00680-1.pdf
+doi:10.3389/frai.2023.1237704	2023	Overview of Chatbots with special emphasis on artificial intelligence-enabled ChatGPT in medical science	maybe	no		papers_openalex_llm_xai/10.3389_frai.2023.1237704.pdf
+doi:10.1609/aaai.v38i8.28678	2024	Enhancing Job Recommendation through LLM-Based Generative Adversarial Networks	maybe	no		papers_openalex_llm_xai/10.1609_aaai.v38i8.28678.pdf
+doi:10.1007/s00146-023-01710-4	2023	ChatGPT: deconstructing the debate and moving it forward	maybe	no		papers_openalex_llm_xai/10.1007_s00146-023-01710-4.pdf
+doi:10.1613/jair.1.14649	2023	How to DP-fy ML: A Practical Guide to Machine Learning with Differential Privacy	maybe	no	E5	papers_openalex_llm_xai/10.1613_jair.1.14649.pdf
+doi:10.1145/3643834.3661588	2024	DesignPrompt: Using Multimodal Interaction for Design Exploration with Generative AI	maybe	no	E4	papers_openalex_llm_xai/10.1145_3643834.3661588.pdf
+doi:10.1007/s44267-024-00065-8	2024	An overview of large AI models and their applications	maybe	no		papers_openalex_llm_xai/10.1007_s44267-024-00065-8.pdf
+doi:10.1007/s10639-023-12405-0	2024	How should we change teaching and assessment in response to increasingly powerful generative Artificial Intelligence? Outcomes of the ChatGPT teacher survey	maybe	yes		papers_openalex_llm_xai/10.1007_s10639-023-12405-0.pdf
+doi:10.1609/aaai.v38i1.27758	2024	Prompt to Transfer: Sim-to-Real Transfer for Traffic Signal Control with Prompt Learning	maybe	no	E4	papers_openalex_llm_xai/10.1609_aaai.v38i1.27758.pdf
+doi:10.1007/s10796-023-10400-x	2023	Exploring the Darkverse: A Multi-Perspective Analysis of the Negative Societal Impacts of the Metaverse	maybe	yes		papers_openalex_llm_xai/10.1007_s10796-023-10400-x.pdf
+doi:10.1609/aaai.v38i18.29970	2024	Value Kaleidoscope: Engaging AI with Pluralistic Human Values, Rights, and Duties	maybe	no		papers_openalex_llm_xai/10.1609_aaai.v38i18.29970.pdf
+doi:10.1609/aaaiss.v2i1.27698	2024	Psychologically-Valid Generative Agents: A Novel Approach to Agent-Based Modeling in Social Sciences	maybe	no		papers_openalex_llm_xai/10.1609_aaaiss.v2i1.27698.pdf
+doi:10.1186/s12909-024-06592-8	2024	Exploring prospects, hurdles, and road ahead for generative artificial intelligence in orthopedic education and training	maybe	no		papers_openalex_llm_xai/10.1186_s12909-024-06592-8.pdf
+doi:10.3389/frai.2023.1093712	2023	How AI tools can—and cannot—help organizations become more ethical	maybe	no		papers_openalex_llm_xai/10.3389_frai.2023.1093712.pdf
+doi:10.3389/frai.2025.1616145	2025	Medical reasoning in LLMs: an in-depth analysis of DeepSeek R1	maybe	no		papers_openalex_llm_xai/10.3389_frai.2025.1616145.pdf
+doi:10.3389/frsus.2023.1210209	2023	Prospects of artificial intelligence in the development of sustainable separation processes	maybe	no		papers_openalex_llm_xai/10.3389_frsus.2023.1210209.pdf
+doi:10.1609/aiide.v19i1.27502	2023	There and Back Again: Extracting Formal Domains for Controllable Neurosymbolic Story Authoring	maybe	no		papers_openalex_llm_xai/10.1609_aiide.v19i1.27502.pdf
+doi:10.1038/s41598-025-22784-8	2025	Leveraging ChatGPT and explainable AI for enhancing clinical decision support	yes	no	E2	papers_openalex_llm_xai/10.1038_s41598-025-22784-8.pdf
+doi:10.1186/s12911-025-03239-6	2025	A prompt framework for enhancing LLM-based explainability of medical machine learning models: an intensive care unit application	yes	no	E4	papers_openalex_llm_xai/10.1186_s12911-025-03239-6.pdf
+doi:10.34028/iajit/21/2/7	2024	Embedding Search for Quranic Texts based on Large Language Models	maybe	no		papers_openalex_llm_xai/10.34028_iajit_21_2_7.pdf
+doi:10.3389/fnut.2025.1636980	2025	Artificial intelligence in personalized nutrition and food manufacturing: a comprehensive review of methods, applications, and future directions	maybe	no		papers_openalex_llm_xai/10.3389_fnut.2025.1636980.pdf
+doi:10.1007/s00170-025-15830-2	2025	Generative AI meets CAD: enhancing engineering design to manufacturing processes with large language models	maybe	no		papers_openalex_llm_xai/10.1007_s00170-025-15830-2.pdf
+doi:10.37547/tajet/volume06issue07-11	2024	Explainable AI In Software Engineering: Enhancing Developer-AI Collaboration	yes	no		papers_openalex_llm_xai/10.37547_tajet_volume06issue07-11.pdf
+doi:10.55476/001c.91230	2023	Encountering Artificial Intelligence: Ethical and Anthropological Investigations	maybe	no		papers_openalex_llm_xai/10.55476_001c.91230.pdf
+doi:10.37074/jalt.2023.6.2.33	2023	Educational futures of intelligent synergies between humans, digital twins, avatars, and robots - the iSTAR framework	maybe	no		papers_openalex_llm_xai/10.37074_jalt.2023.6.2.33.pdf
+doi:10.1007/s42524-025-4241-9	2025	Generative artificial intelligence in intelligent transportation systems: A systematic review of applications	maybe	yes		papers_openalex_llm_xai/10.1007_s42524-025-4241-9.pdf
+doi:10.1515/mr-2024-0086	2025	The potential of generative AI with prostate-specific membrane antigen (PSMA) PET/CT: challenges and future directions	maybe	no		papers_openalex_llm_xai/10.1515_mr-2024-0086.pdf
+doi:10.1038/s41597-025-04417-x	2025	A dataset for evaluating clinical research claims in large language models	maybe	no	E2	papers_openalex_llm_xai/10.1038_s41597-025-04417-x.pdf
+doi:10.3389/fdata.2025.1611389	2025	LLM-as-a-Judge: automated evaluation of search query parsing using large language models	maybe	no		papers_openalex_llm_xai/10.3389_fdata.2025.1611389.pdf
+doi:10.1088/1361-651x/ad4d0d	2024	Roadmap on data-centric materials science	maybe	no		papers_openalex_llm_xai/10.1088_1361-651x_ad4d0d.pdf
+doi:10.1038/s42004-023-01045-7	2023	Modelling local and general quantum mechanical properties with attention-based pooling	maybe	no		papers_openalex_llm_xai/10.1038_s42004-023-01045-7.pdf
+doi:10.1109/tmc.2025.3564543	2025	Task-Oriented Semantic Communication in Large Multimodal Models-Based Vehicle Networks	maybe	no		papers_openalex_llm_xai/10.1109_tmc.2025.3564543.pdf
+doi:10.1007/s10055-023-00752-9	2023	Intelligence at play: game-based assessment using a virtual-reality application	maybe	no		papers_openalex_llm_xai/10.1007_s10055-023-00752-9.pdf
+doi:10.3389/frai.2025.1590105	2025	Evaluation of large language model-driven AutoML in data and model management from human-centered perspective	maybe	yes		papers_openalex_llm_xai/10.3389_frai.2025.1590105.pdf
+doi:10.1109/tai.2024.3363686	2024	Explainable Attention Pruning: A Metalearning-Based Approach	yes	no		papers_openalex_llm_xai/10.1109_tai.2024.3363686.pdf
+doi:10.37082/ijirmps.v13.i3.232551	2025	The Contribution of AI in Climate Modeling and Sustainable Decision-Making	maybe	no	E5	papers_openalex_llm_xai/10.37082_ijirmps.v13.i3.232551.pdf
+doi:10.1613/jair.1.17970	2025	Viewpoint: The Future of Human-Centric Explainable Artificial Intelligence (XAI) is not Post-Hoc Explanations	yes	yes	E1	papers_openalex_llm_xai/10.1613_jair.1.17970.pdf
+doi:10.3389/fcomp.2025.1590632	2025	Practices, opportunities and challenges in the fusion of knowledge graphs and large language models	yes	no		papers_openalex_llm_xai/10.3389_fcomp.2025.1590632.pdf
+doi:10.3389/frai.2025.1585629	2025	AI generations: from AI 1.0 to AI 4.0	maybe	no		papers_openalex_llm_xai/10.3389_frai.2025.1585629.pdf
+doi:10.1007/s12599-025-00964-0	2025	Inherently Interpretable Machine Learning: A Contrasting Paradigm to Post-hoc Explainable AI	yes	no	E1	papers_openalex_llm_xai/10.1007_s12599-025-00964-0.pdf
+doi:10.1007/s43681-024-00467-w	2024	Beyond phase-in: assessing impacts on disinformation of the EU Digital Services Act	maybe	no		papers_openalex_llm_xai/10.1007_s43681-024-00467-w.pdf
+doi:10.3389/fcomp.2025.1575741	2025	A multimodal symphony: integrating taste and sound through generative AI	maybe	no		papers_openalex_llm_xai/10.3389_fcomp.2025.1575741.pdf
+doi:10.5121/ijci.2025.140302	2025	INTEGRATING UNIVERSAL GENERATIVE AI PLATFORMS IN EDUCATIONAL LABS TO FOSTER CRITICAL THINKING AND DIGITAL LITERACY	maybe	no		papers_openalex_llm_xai/10.5121_ijci.2025.140302.pdf
+doi:10.1609/aaai.v38i16.29788	2024	Towards Equipping Transformer with the Ability of Systematic Compositionality	maybe	no	E5	papers_openalex_llm_xai/10.1609_aaai.v38i16.29788.pdf
+doi:10.5334/jime.981	2025	A Metaphor for Rethinking Artificial Intelligence in/and Education	maybe	no		papers_openalex_llm_xai/10.5334_jime.981.pdf
+doi:10.1007/s00146-024-01893-4	2024	Manifestations of xenophobia in AI systems	maybe	no		papers_openalex_llm_xai/10.1007_s00146-024-01893-4.pdf
+doi:10.3389/fpsyg.2025.1574809	2025	Interacting with fallible AI: is distrust helpful when receiving AI misclassifications?	maybe	no	E3	papers_openalex_llm_xai/10.3389_fpsyg.2025.1574809.pdf
+doi:10.1186/s12909-024-06563-z	2024	An assessment of clinical reception training using standard patient and dental simulator in prosthodontic dentistry for dental undergraduates: a historical control trial	maybe	no	E2	papers_openalex_llm_xai/10.1186_s12909-024-06563-z.pdf
+doi:10.54660/ijaiet.2025.6.1.04-12	2025	Integrating Artificial Intelligence into Higher Education Curricula: Challenges and Opportunities for Science-Based Programs	maybe	no		papers_openalex_llm_xai/10.54660_ijaiet.2025.6.1.04-12.pdf
+doi:10.1609/aaai.v38i8.28764	2024	Deciphering Compatibility Relationships with Textual Descriptions via Extraction and Explanation	yes	no	E5	papers_openalex_llm_xai/10.1609_aaai.v38i8.28764.pdf
+doi:10.1007/s12599-024-00914-2	2025	Elevating Developers’ Accountability Awareness in AI Systems Development	maybe	no	E5	papers_openalex_llm_xai/10.1007_s12599-024-00914-2.pdf
+doi:10.14296/ac.v4i3.5616	2023	Montesquieu’s Theory of the Separation of Powers, Legislative Flexibility and Judicial Restraint in an Unwritten Constitution	maybe	no		papers_openalex_llm_xai/10.14296_ac.v4i3.5616.pdf
+doi:10.32996/jcsts.2025.7.3.94	2025	Machine Learning and Safety Standards in Autonomous Vehicle Systems: A Technical Overview	maybe	no	E5	papers_openalex_llm_xai/10.32996_jcsts.2025.7.3.94.pdf
+doi:10.3389/ejcmp.2025.13875	2025	Exploring the generative AI potential in the fashion design process: an experimental experience on the collaboration between fashion design practitioners and generative AI tools	maybe	no	E5	papers_openalex_llm_xai/10.3389_ejcmp.2025.13875.pdf
+doi:10.1007/s10791-023-09430-5	2023	An in-depth analysis of passage-level label transfer for contextual document ranking	maybe	no		papers_openalex_llm_xai/10.1007_s10791-023-09430-5.pdf
+doi:10.5590/jerap.2025.15.2054	2025	Research Integrity in the Era of Generative Artificial Intelligence	maybe	no		papers_openalex_llm_xai/10.5590_jerap.2025.15.2054.pdf
+doi:10.3389/fclim.2025.1585331	2025	Enhancing system resilience to climate change through artificial intelligence: a systematic literature review	maybe	no		papers_openalex_llm_xai/10.3389_fclim.2025.1585331.pdf
+doi:10.1007/s11042-024-18469-5	2024	Exploring biometric domain adaptation in human action recognition models for unconstrained environments	maybe	no		papers_openalex_llm_xai/10.1007_s11042-024-18469-5.pdf
+doi:10.17323/jle.2023.12262	2023	On the Identifiability of Cognitive Diagnostic Models: Diagnosing Students’ Translation Ability	maybe	no	E2	papers_openalex_llm_xai/10.17323_jle.2023.12262.pdf
+doi:10.21275/ms2212141805	2022	AI and Machine Learning for Predictive Banking: Infrastructure Challenges and Opportunities	maybe	no		papers_openalex_llm_xai/10.21275_ms2212141805.pdf
+doi:10.56975/ijnrd.v10i4.305644	2025	Revolutionizing Healthcare: The Role of Artificial Intelligence in Medical Innovation	maybe	no		papers_openalex_llm_xai/10.56975_ijnrd.v10i4.305644.pdf
+doi:10.38124/ijsrmt.v2i5.571	2023	Explainable AI (XAI) for Product Managers: Bridging the Gap between AI Models and Business Needs	yes	no		papers_openalex_llm_xai/10.38124_ijsrmt.v2i5.571.pdf
+doi:10.55041/ijsrem48086	2025	Challenges in Standardizing Explainable AI Metrics for Ambiguous Learning Models in Cloud Infrastructure	yes	no		papers_openalex_llm_xai/10.55041_ijsrem48086.pdf
+doi:10.22318/cscl2025.323151	2025	Enhancing Team-Based Medical Simulations: Learning Through Reflection with Analytics and AI Tools	maybe	no		papers_openalex_llm_xai/10.22318_cscl2025.323151.pdf
+doi:10.4236/ojapps.2025.158158	2025	Challenges and Solutions for Large Language Models in Metaphor Translation of Political Texts	maybe	no		papers_openalex_llm_xai/10.4236_ojapps.2025.158158.pdf
+doi:10.54254/2755-2721/2025.26304	2025	Task Specialization via Generative Behavior Clustering and Reinforced Distillation: Building Lightweight Experts from LLMs	maybe	no		papers_openalex_llm_xai/10.54254_2755-2721_2025.26304.pdf
+doi:10.34218/ijaret_16_03_005	2025	ARCHITECTING RESPONSIBLE DEVELOPMENT AND DEPLOYMENT OF GENERATIVE AI	maybe	no		papers_openalex_llm_xai/10.34218_ijaret_16_03_005.pdf
+doi:10.5120/ijca2025925477	2025	Assessing LLMs as Cognitive Interpreters of Student Prompts: A Typological Framework	maybe	no	E4	papers_openalex_llm_xai/10.5120_ijca2025925477.pdf
+doi:10.52783/jes.8814	2024	Explainable AI in E-Commerce: Seller Recommendations with Ethnocentric Transparency	yes	no		papers_openalex_llm_xai/10.52783_jes.8814.pdf
+doi:10.12688/hrbopenres.14169.1	2025	Protocol for a Scoping Review of Digital Scribes in Primary Care: Design, Implementation, Accuracy and Impact	maybe	yes		papers_openalex_llm_xai/10.12688_hrbopenres.14169.1.pdf
+doi:10.54254/2755-2721/34/20230315	2024	Approaches to enhance user experience and satisfaction with the design of the ComplaintCraft system: A study on its features and objectives	maybe	no		papers_openalex_llm_xai/10.54254_2755-2721_34_20230315.pdf
+doi:10.55640/ijdsml-05-02-04	2025	AI-optimized SOC playbook for Ransomware Investigation	maybe	no		papers_openalex_llm_xai/10.55640_ijdsml-05-02-04.pdf
+doi:10.15680/ijirset.2025.1404004	2024	Using Foundation Models to Automate ETL Pipeline Creation, Management	maybe	no	E5	papers_openalex_llm_xai/10.15680_ijirset.2025.1404004.pdf
+doi:10.47363/jaicc/2024(3)456	2024	Generative AI for Cloud Infrastructure Decision-Making and SelfHealing Systems	maybe	no		papers_openalex_llm_xai/10.47363_jaicc_2024_3_456.pdf
+doi:10.56975/tijer.v12i6.158579	2025	LLM-augmented Knowledge Graphs for Cross-system Patient Record Reconciliation	yes	no		papers_openalex_llm_xai/10.56975_tijer.v12i6.158579.pdf
+doi:10.69709/caic.2025.177363	2025	A Novel MLLM-Based Approach for Autonomous Driving in Different Weather Conditions	maybe	no		papers_openalex_llm_xai/10.69709_caic.2025.177363.pdf
+doi:10.3991/ijoe.v21i09.55653	2025	Development of a Virtual Assistant Based on LLMs for the Knowledge Domain in Biomedical Metrology	maybe	no		papers_openalex_llm_xai/10.3991_ijoe.v21i09.55653.pdf
+doi:10.22214/ijraset.2025.69166	2025	AI-Forge - Your Coding Assistant	maybe	no		papers_openalex_llm_xai/10.22214_ijraset.2025.69166.pdf
+doi:10.1186/s13012-022-01245-0	2022	The updated Consolidated Framework for Implementation Research based on user feedback	yes	no	E1	papers_openalex_llm_xai/10.1186_s13012-022-01245-0.pdf
+doi:10.1136/bmj-2023-078378	2024	TRIPOD+AI statement: updated guidance for reporting clinical prediction models that use regression or machine learning methods	yes	no	E1,E2,E5	papers_openalex_llm_xai/10.1136_bmj-2023-078378.pdf
+doi:10.1136/bmj-2022-070849	2022	Reporting guideline for overviews of reviews of healthcare interventions: development of the PRIOR statement	yes	no	E1	papers_openalex_llm_xai/10.1136_bmj-2022-070849.pdf
+doi:10.1038/s41591-024-03423-7	2025	Toward expert-level medical question answering with large language models	yes	no	E1	papers_openalex_llm_xai/10.1038_s41591-024-03423-7.pdf
+doi:10.2196/40789	2023	Artificial Intelligence–Based Chatbots for Promoting Health Behavioral Changes: Systematic Review	yes	yes	E1	papers_openalex_llm_xai/10.2196_40789.pdf
+doi:10.1007/s10462-022-10246-w	2022	Human-in-the-loop machine learning: a state of the art	yes	no	E1	papers_openalex_llm_xai/10.1007_s10462-022-10246-w.pdf
+doi:10.1186/s40537-023-00727-2	2023	A survey on deep learning tools dealing with data scarcity: definitions, challenges, solutions, tips, and applications	yes	yes	E1,E5	papers_openalex_llm_xai/10.1186_s40537-023-00727-2.pdf
+doi:10.1038/s41586-023-06406-9	2023	Diverse values of nature for sustainability	yes	no	E1	papers_openalex_llm_xai/10.1038_s41586-023-06406-9.pdf
+doi:10.1038/s41586-022-04643-y	2022	Virtual communication curbs creative idea generation	yes	no	E1	papers_openalex_llm_xai/10.1038_s41586-022-04643-y.pdf
+doi:10.1038/s41746-023-00896-7	2023	Evaluating large language models on medical evidence summarization	yes	no	E1	papers_openalex_llm_xai/10.1038_s41746-023-00896-7.pdf
+doi:10.1038/s41746-024-01029-4	2024	Prompt engineering in consistency and reliability with the evidence-based guideline for LLMs	yes	no	E1,E4	papers_openalex_llm_xai/10.1038_s41746-024-01029-4.pdf
+doi:10.1186/s12933-022-01511-x	2022	Triglyceride-glucose index as a marker in cardiovascular diseases: landscape and limitations	yes	no	E1	papers_openalex_llm_xai/10.1186_s12933-022-01511-x.pdf
+doi:10.1214/21-ss133	2022	Interpretable machine learning: Fundamental principles and 10 grand challenges	yes	yes	E1,E5	papers_openalex_llm_xai/10.1214_21-ss133.pdf
+doi:10.1038/s41551-023-01045-x	2023	A transformer-based representation-learning model with unified processing of multimodal input for clinical diagnostics	yes	no	E1,E2	papers_openalex_llm_xai/10.1038_s41551-023-01045-x.pdf
+doi:10.2196/35371	2022	Factors Influencing Adherence to mHealth Apps for Prevention or Management of Noncommunicable Diseases: Systematic Review	yes	yes	E1	papers_openalex_llm_xai/10.2196_35371.pdf
+doi:10.1609/aaai.v38i20.30214	2024	Bad Actor, Good Advisor: Exploring the Role of Large Language Models in Fake News Detection	yes	no	E1	papers_openalex_llm_xai/10.1609_aaai.v38i20.30214.pdf
+doi:10.2196/44838	2023	An Overview of Chatbot-Based Mobile Mental Health Apps: Insights From App Description and User Reviews	yes	no	E1,E5	papers_openalex_llm_xai/10.2196_44838.pdf
+doi:10.1186/s13012-021-01179-z	2022	Barriers and facilitators to implementation of evidence-based task-sharing mental health interventions in low- and middle-income countries: a systematic review using implementation science frameworks	yes	yes	E1	papers_openalex_llm_xai/10.1186_s13012-021-01179-z.pdf
+doi:10.1186/s12913-022-08079-y	2022	The use of co-production, co-design and co-creation to mobilise knowledge in the management of health conditions: a systematic review	yes	yes	E1	papers_openalex_llm_xai/10.1186_s12913-022-08079-y.pdf
+doi:10.1186/s41239-023-00436-z	2024	A meta systematic review of artificial intelligence in higher education: a call for increased ethics, collaboration, and rigour	yes	yes	E1	papers_openalex_llm_xai/10.1186_s41239-023-00436-z.pdf
+doi:10.7759/cureus.57728	2024	AI-Driven Clinical Decision Support Systems: An Ongoing Pursuit of Potential	yes	no	E1,E2	papers_openalex_llm_xai/10.7759_cureus.57728.pdf
+doi:10.2196/40238	2022	Artificial Intelligence Applications in Health Care Practice: Scoping Review	yes	yes	E1	papers_openalex_llm_xai/10.2196_40238.pdf
+doi:10.2196/51580	2023	Evaluation of the Performance of Generative AI Large Language Models ChatGPT, Google Bard, and Microsoft Bing Chat in Supporting Evidence-Based Dentistry: Comparative Mixed Methods Study	yes	no	E1	papers_openalex_llm_xai/10.2196_51580.pdf
+doi:10.1007/s11633-022-1369-5	2023	VLP: A Survey on Vision-language Pre-training	yes	yes	E1	papers_openalex_llm_xai/10.1007_s11633-022-1369-5.pdf
+doi:10.1038/s41562-023-01538-4	2023	Negativity drives online news consumption	yes	no	E1	papers_openalex_llm_xai/10.1038_s41562-023-01538-4.pdf
+doi:10.1007/s10462-022-10306-1	2022	Deep learning in drug discovery: an integrative review and future challenges	yes	no	E1	papers_openalex_llm_xai/10.1007_s10462-022-10306-1.pdf
+doi:10.1007/s10796-022-10279-0	2022	Artificial Intelligence and Blockchain Integration in Business: Trends from a Bibliometric-Content Analysis	yes	no	E1	papers_openalex_llm_xai/10.1007_s10796-022-10279-0.pdf
+doi:10.1038/s42254-022-00518-3	2022	On scientific understanding with artificial intelligence	yes	no	E1	papers_openalex_llm_xai/10.1038_s42254-022-00518-3.pdf
+doi:10.1038/s41562-022-01450-3	2022	Life expectancy changes since COVID-19	yes	no	E1	papers_openalex_llm_xai/10.1038_s41562-022-01450-3.pdf
+doi:10.2196/42719	2023	Barriers to and Facilitators of Digital Health Among Culturally and Linguistically Diverse Populations: Qualitative Systematic Review	yes	yes	E1	papers_openalex_llm_xai/10.2196_42719.pdf
+doi:10.2196/55318	2024	An Empirical Evaluation of Prompting Strategies for Large Language Models in Zero-Shot Clinical Natural Language Processing: Algorithm Development and Validation Study	yes	no	E1,E2,E4	papers_openalex_llm_xai/10.2196_55318.pdf
+doi:10.1038/s43856-022-00199-0	2022	Artificial intelligence and machine learning in cancer imaging	yes	no	E1	papers_openalex_llm_xai/10.1038_s43856-022-00199-0.pdf
+doi:10.1186/s40561-023-00227-z	2023	Gamification of e-learning in higher education: a systematic literature review	yes	no	E1	papers_openalex_llm_xai/10.1186_s40561-023-00227-z.pdf
+doi:10.3389/frai.2023.1227091	2023	Artificial intelligence in clinical medicine: catalyzing a sustainable global healthcare paradigm	yes	no	E1,E2	papers_openalex_llm_xai/10.3389_frai.2023.1227091.pdf
+doi:10.1136/bmj-2022-070904	2022	Reporting guideline for the early stage clinical evaluation of decision support systems driven by artificial intelligence: DECIDE-AI	yes	no	E1,E2	papers_openalex_llm_xai/10.1136_bmj-2022-070904.pdf
+doi:10.2196/48808	2023	ChatGPT-Generated Differential Diagnosis Lists for Complex Case–Derived Clinical Vignettes: Diagnostic Accuracy Evaluation	yes	no	E1,E2	papers_openalex_llm_xai/10.2196_48808.pdf
+doi:10.2196/44030	2023	Quality, Usability, and Effectiveness of mHealth Apps and the Role of Artificial Intelligence: Current Scenario and Challenges	yes	no	E1	papers_openalex_llm_xai/10.2196_44030.pdf
+doi:10.1136/bmj-2022-072691	2023	Association between healthy lifestyle and memory decline in older adults: 10 year, population based, prospective cohort study	yes	no	E1	papers_openalex_llm_xai/10.1136_bmj-2022-072691.pdf
+doi:10.3389/fcomp.2023.1096257	2023	Measures for explainable AI: Explanation goodness, user satisfaction, mental models, curiosity, trust, and human-AI performance	yes	no	E1,E3	papers_openalex_llm_xai/10.3389_fcomp.2023.1096257.pdf
+doi:10.1038/s41746-023-00899-4	2023	Barriers and facilitators to utilizing digital health technologies by healthcare professionals	yes	no	E1	papers_openalex_llm_xai/10.1038_s41746-023-00899-4.pdf
+doi:10.2196/50373	2023	AI-Enabled Medical Education: Threads of Change, Promising Futures, and Risky Realities Across Four Potential Future Worlds	yes	no	E1	papers_openalex_llm_xai/10.2196_50373.pdf
+doi:10.1038/s41398-023-02592-2	2023	Natural language processing for mental health interventions: a systematic review and research framework	yes	yes	E1	papers_openalex_llm_xai/10.1038_s41398-023-02592-2.pdf
+doi:10.1007/s11633-022-1410-8	2023	Large-scale Multi-modal Pre-trained Models: A Comprehensive Survey	yes	yes	E1	papers_openalex_llm_xai/10.1007_s11633-022-1410-8.pdf
+doi:10.2196/47621	2023	The Potential of ChatGPT as a Self-Diagnostic Tool in Common Orthopedic Diseases: Exploratory Study	yes	no	E1	papers_openalex_llm_xai/10.2196_47621.pdf
+doi:10.1007/s11096-022-01422-7	2022	European Society of Clinical Pharmacy definition of the term clinical pharmacy and its relationship to pharmaceutical care: a position paper	yes	no	E1,E2,E5	papers_openalex_llm_xai/10.1007_s11096-022-01422-7.pdf
+doi:10.1007/s43681-023-00258-9	2023	From ethical AI frameworks to tools: a review of approaches	yes	no	E1	papers_openalex_llm_xai/10.1007_s43681-023-00258-9.pdf
+doi:10.1146/annurev-economics-091622-010157	2023	How to Run Surveys: A Guide to Creating Your Own Identifying Variation and Revealing the Invisible	yes	yes	E1	papers_openalex_llm_xai/10.1146_annurev-economics-091622-010157.pdf
+doi:10.1609/aaai.v36i9.21196	2022	Do Feature Attribution Methods Correctly Attribute Features?	yes	no	E1	papers_openalex_llm_xai/10.1609_aaai.v36i9.21196.pdf
+doi:10.1186/s13024-022-00533-z	2022	Tauopathies: new perspectives and challenges	yes	yes	E1	papers_openalex_llm_xai/10.1186_s13024-022-00533-z.pdf
+doi:10.1007/s11604-023-01487-y	2023	Preliminary assessment of automated radiology report generation with generative pre-trained transformers: comparing results to radiologist-generated reports	yes	no	E1	papers_openalex_llm_xai/10.1007_s11604-023-01487-y.pdf
+doi:10.18653/v1/2022.naacl-main.70	2022	KAT: A Knowledge Augmented Transformer for Vision-and-Language	yes	no	E1	papers_openalex_llm_xai/10.18653_v1_2022.naacl-main.70.pdf
+doi:10.1007/s10639-022-11214-1	2022	Impact of digital technologies upon teaching and learning in higher education in Latin America: an outlook on the reach, barriers, and bottlenecks	yes	no	E1	papers_openalex_llm_xai/10.1007_s10639-022-11214-1.pdf
+doi:10.2196/50048	2024	Toward Fairness, Accountability, Transparency, and Ethics in AI for Social Media and Health Care: Scoping Review	yes	yes	E1,E5	papers_openalex_llm_xai/10.2196_50048.pdf
+doi:10.1136/bmj-2022-073725	2023	CONSORT Harms 2022 statement, explanation, and elaboration: updated guideline for the reporting of harms in randomised trials	yes	no	E1	papers_openalex_llm_xai/10.1136_bmj-2022-073725.pdf
+doi:10.1007/s11528-022-00823-9	2023	A Historical Review of Collaborative Learning and Cooperative Learning	yes	no	E1	papers_openalex_llm_xai/10.1007_s11528-022-00823-9.pdf
+doi:10.1007/s10664-021-10065-7	2022	Analysing app reviews for software engineering: a systematic literature review	yes	no	E1	papers_openalex_llm_xai/10.1007_s10664-021-10065-7.pdf
+doi:10.1007/s10462-024-10902-3	2024	Artificial intelligence for literature reviews: opportunities and challenges	yes	no	E1	papers_openalex_llm_xai/10.1007_s10462-024-10902-3.pdf
+doi:10.53759/9852/jrs202301006	2023	Literature Review of Qualitative Data with Natural Language Processing	yes	no	E1	papers_openalex_llm_xai/10.53759_9852_jrs202301006.pdf
+doi:10.5070/l214151760	2022	Thirty Years of Machine Translation in Language Teaching and Learning: A Review of the Literature	yes	no	E1,E5	papers_openalex_llm_xai/10.5070_l214151760.pdf
+doi:10.2196/46694	2023	iCHECK-DH: Guidelines and Checklist for the Reporting on Digital Health Implementations	yes	no	E1	papers_openalex_llm_xai/10.2196_46694.pdf
+doi:10.2196/50514	2023	Assessment of Resident and AI Chatbot Performance on the University of Toronto Family Medicine Residency Progress Test: Comparative Study	yes	no	E1	papers_openalex_llm_xai/10.2196_50514.pdf
+doi:10.1613/jair.1.13715	2023	Repairing the Cracked Foundation: A Survey of Obstacles in Evaluation Practices for Generated Text	yes	yes	E1	papers_openalex_llm_xai/10.1613_jair.1.13715.pdf
+doi:10.1038/s41746-024-01024-9	2024	CancerGPT for few shot drug pair synergy prediction using large pretrained language models	yes	no	E1	papers_openalex_llm_xai/10.1038_s41746-024-01024-9.pdf
+doi:10.2196/35960	2022	Development and Application of a Metaverse-Based Social Skills Training Program for Children With Autism Spectrum Disorder to Improve Social Interaction: Protocol for a Randomized Controlled Trial	yes	no	E1	papers_openalex_llm_xai/10.2196_35960.pdf
+doi:10.3389/fddsv.2023.1201419	2023	Drug discovery and development: introduction to the general public and patient groups	yes	no	E1	papers_openalex_llm_xai/10.3389_fddsv.2023.1201419.pdf
+doi:10.1371/journal.pmed.1004139	2022	Understanding ethnic inequalities in mental healthcare in the UK: A meta-ethnography	yes	no	E1	papers_openalex_llm_xai/10.1371_journal.pmed.1004139.pdf
+doi:10.47852/bonviewjcce2202406	2022	Context-Free Word Importance Scores for Attacking Neural Networks	yes	no	E1	papers_openalex_llm_xai/10.47852_bonviewjcce2202406.pdf
+doi:10.1038/s41467-023-41948-6	2023	A systematic study of key elements underlying molecular property prediction	yes	no	E1	papers_openalex_llm_xai/10.1038_s41467-023-41948-6.pdf
+doi:10.18653/v1/2022.findings-naacl.31	2022	Few-Shot Self-Rationalization with Natural Language Prompts	yes	no	E1,E4	papers_openalex_llm_xai/10.18653_v1_2022.findings-naacl.31.pdf
+doi:10.1186/s12874-022-01805-4	2022	Machine learning computational tools to assist the performance of systematic reviews: A mapping review	yes	yes	E1	papers_openalex_llm_xai/10.1186_s12874-022-01805-4.pdf
+doi:10.1136/bmj-2022-072003	2023	Comparison of seven popular structured dietary programmes and risk of mortality and major cardiovascular events in patients at increased cardiovascular risk: systematic review and network meta-analysis	yes	yes	E1	papers_openalex_llm_xai/10.1136_bmj-2022-072003.pdf
+doi:10.1186/s12874-022-01577-x	2022	Methodological conduct of prognostic prediction models developed using machine learning in oncology: a systematic review	yes	yes	E1	papers_openalex_llm_xai/10.1186_s12874-022-01577-x.pdf
+doi:10.2196/42179	2022	Social Media for Public Health: Framework for Social Media–Based Public Health Campaigns	yes	no	E1	papers_openalex_llm_xai/10.2196_42179.pdf
+doi:10.2196/40645	2023	Multiple Automated Health Literacy Assessments of Written Health Information: Development of the SHeLL (Sydney Health Literacy Lab) Health Literacy Editor v1	yes	no	E1,E5	papers_openalex_llm_xai/10.2196_40645.pdf
+doi:10.1017/dap.2022.10	2022	Copyright in generative deep learning	yes	no	E1	papers_openalex_llm_xai/10.1017_dap.2022.10.pdf
+doi:10.2196/42864	2023	Providing Human Support for the Use of Digital Mental Health Interventions: Systematic Meta-review	yes	no	E1	papers_openalex_llm_xai/10.2196_42864.pdf
+doi:10.1038/s41598-023-49483-6	2023	Harnessing ChatGPT and GPT-4 for evaluating the rheumatology questions of the Spanish access exam to specialized medical training	yes	no	E1,E6	papers_openalex_llm_xai/10.1038_s41598-023-49483-6.pdf
+doi:10.1038/s41586-022-05607-y	2022	Discriminatory attitudes against unvaccinated people during the pandemic	yes	no	E1	papers_openalex_llm_xai/10.1038_s41586-022-05607-y.pdf
+doi:10.1016/s2213-2600(24)00028-6	2024	Classification of early tuberculosis states to guide research for improved care and prevention: an international Delphi consensus exercise	yes	no	E1	papers_openalex_llm_xai/10.1016_s2213-2600_24_00028-6.pdf
+doi:10.1186/s13054-022-03915-3	2022	Artificial Intelligence in Critical Care Medicine	yes	no	E1	papers_openalex_llm_xai/10.1186_s13054-022-03915-3.pdf
+doi:10.1186/s41235-023-00499-6	2023	Humans versus AI: whether and why we prefer human-created compared to AI-created artwork	yes	no	E1,E5	papers_openalex_llm_xai/10.1186_s41235-023-00499-6.pdf
+doi:10.1609/aaai.v38i16.29728	2024	Benchmarking Large Language Models in Retrieval-Augmented Generation	yes	no		papers_openalex_llm_xai/10.1609_aaai.v38i16.29728.pdf
+doi:10.1613/jair.1.13200	2022	Explainable Deep Learning: A Field Guide for the Uninitiated	yes	no		papers_openalex_llm_xai/10.1613_jair.1.13200.pdf
+doi:10.1186/s12943-022-01657-y	2022	Myeloid-derived suppressor cells: an emerging target for anticancer immunotherapy	yes	no		papers_openalex_llm_xai/10.1186_s12943-022-01657-y.pdf
+doi:10.1038/s41746-023-00952-2	2023	A medical multimodal large language model for future pandemics	yes	no	E2	papers_openalex_llm_xai/10.1038_s41746-023-00952-2.pdf
+doi:10.1609/aaai.v38i17.29889	2024	Knowledge Graph Prompting for Multi-Document Question Answering	yes	no	E4	papers_openalex_llm_xai/10.1609_aaai.v38i17.29889.pdf
+doi:10.1038/s41392-023-01419-2	2023	Patient-derived xenograft models in cancer therapy: technologies and applications	yes	no		papers_openalex_llm_xai/10.1038_s41392-023-01419-2.pdf
+doi:10.1186/s13020-022-00571-1	2022	Tea and tea drinking: China’s outstanding contributions to the mankind	yes	no	E2	papers_openalex_llm_xai/10.1186_s13020-022-00571-1.pdf
+doi:10.1146/annurev-psych-032420-031329	2022	What Are Conspiracy Theories? A Definitional Approach to Their Correlates, Consequences, and Communication	yes	no		papers_openalex_llm_xai/10.1146_annurev-psych-032420-031329.pdf
+doi:10.18653/v1/2022.acl-long.94	2022	A Well-Composed Text is Half Done! Composition Sampling for Diverse Conditional Generation	yes	no		papers_openalex_llm_xai/10.18653_v1_2022.acl-long.94.pdf
+doi:10.3389/fmolb.2022.906437	2022	AlphaFold 2 and NMR Spectroscopy: Partners to Understand Protein Structure, Dynamics and Function	yes	no		papers_openalex_llm_xai/10.3389_fmolb.2022.906437.pdf
+doi:10.1186/s13045-022-01360-x	2022	The synthetic lethality of targeting cell cycle checkpoints and PARPs in cancer treatment	yes	no		papers_openalex_llm_xai/10.1186_s13045-022-01360-x.pdf
+doi:10.1038/s41586-022-04515-5	2022	A multidimensional coding architecture of the vagal interoceptive system	yes	no		papers_openalex_llm_xai/10.1038_s41586-022-04515-5.pdf
+doi:10.1136/gutjnl-2022-328970	2023	Microbial transmission, colonisation and succession: from pregnancy to infancy	yes	no		papers_openalex_llm_xai/10.1136_gutjnl-2022-328970.pdf
+doi:10.1186/s40537-023-00792-7	2023	Tabular and latent space synthetic data generation: a literature review	yes	no		papers_openalex_llm_xai/10.1186_s40537-023-00792-7.pdf
+doi:10.1017/s0959774323000124	2023	New Materialism and Posthumanism in Roman Archaeology: When Objects Speak for Others	yes	no		papers_openalex_llm_xai/10.1017_s0959774323000124.pdf
+doi:10.18653/v1/2022.acl-long.77	2022	FaiRR: Faithful and Robust Deductive Reasoning over Natural Language	yes	no		papers_openalex_llm_xai/10.18653_v1_2022.acl-long.77.pdf
+doi:10.3389/fenvs.2023.1146052	2023	Insects as bioindicator: A hidden gem for environmental monitoring	yes	no		papers_openalex_llm_xai/10.3389_fenvs.2023.1146052.pdf
+doi:10.47852/bonviewaia3202689	2023	A Critical Historic Overview of Artificial Intelligence: Issues, Challenges, Opportunities, and Threats	yes	no		papers_openalex_llm_xai/10.47852_bonviewaia3202689.pdf
+doi:10.3389/fphys.2022.1029218	2022	Aminoacyl-tRNA synthetases in human health and disease	yes	no		papers_openalex_llm_xai/10.3389_fphys.2022.1029218.pdf
+doi:10.1038/s41392-023-01561-x	2023	Circular RNA vaccine in disease prevention and treatment	yes	no		papers_openalex_llm_xai/10.1038_s41392-023-01561-x.pdf
+doi:10.1038/s41586-022-05664-3	2023	Structural basis for substrate selection by the SARS-CoV-2 replicase	yes	no		papers_openalex_llm_xai/10.1038_s41586-022-05664-3.pdf
+doi:10.1609/aaai.v38i16.29723	2024	MedBench: A Large-Scale Chinese Benchmark for Evaluating Medical Large Language Models	yes	no		papers_openalex_llm_xai/10.1609_aaai.v38i16.29723.pdf
+doi:10.1186/s12936-023-04738-5	2023	Community knowledge, attitude, practices and beliefs associated with persistence of malaria transmission in North-western and Southern regions of Tanzania	yes	no		papers_openalex_llm_xai/10.1186_s12936-023-04738-5.pdf
+doi:10.1214/23-ss145	2023	Some models are useful, but how do we know which ones? Towards a unified Bayesian model taxonomy	yes	yes		papers_openalex_llm_xai/10.1214_23-ss145.pdf
+doi:10.3389/fpsyg.2022.890418	2022	The Impact of Hospitality Work Environment on Employees’ Turnover Intentions During COVID-19 Pandemic: The Mediating Role of Work-Family Conflict	yes	no	E2	papers_openalex_llm_xai/10.3389_fpsyg.2022.890418.pdf
+doi:10.3389/fimmu.2022.1055914	2023	The role of Th17 cells in inflammatory bowel disease and the research progress	yes	no		papers_openalex_llm_xai/10.3389_fimmu.2022.1055914.pdf
+doi:10.1609/aaai.v38i3.28065	2024	Towards More Faithful Natural Language Explanation Using Multi-Level Contrastive Learning in VQA	yes	no		papers_openalex_llm_xai/10.1609_aaai.v38i3.28065.pdf
+doi:10.1038/s41392-022-01003-0	2022	Role of main RNA modifications in cancer: N6-methyladenosine, 5-methylcytosine, and pseudouridine	yes	no		papers_openalex_llm_xai/10.1038_s41392-022-01003-0.pdf
+doi:10.3998/ergo.4641	2023	Emojis as Pictures	yes	no		papers_openalex_llm_xai/10.3998_ergo.4641.pdf
+doi:10.1039/d2cs00203e	2022	Quantum machine learning for chemistry and physics	yes	no		papers_openalex_llm_xai/10.1039_d2cs00203e.pdf
+doi:10.1112/s0010437x23007509	2023	On equivariant topological modular forms	yes	no		papers_openalex_llm_xai/10.1112_s0010437x23007509.pdf
+doi:10.1038/s41593-023-01281-z	2023	Ascending neurons convey behavioral state to integrative sensory and action selection brain regions	yes	no		papers_openalex_llm_xai/10.1038_s41593-023-01281-z.pdf
+doi:10.4310/acta.2022.v229.n2.a2	2022	Mirror symmetry for very affine hypersurfaces	yes	no		papers_openalex_llm_xai/10.4310_acta.2022.v229.n2.a2.pdf
+doi:10.1146/annurev-pathmechdis-051222-120750	2023	Neurodegenerative Disease Tauopathies	yes	no	E2	papers_openalex_llm_xai/10.1146_annurev-pathmechdis-051222-120750.pdf
+doi:10.22331/q-2023-04-13-979	2023	The role of cohomology in quantum computation with magic states	yes	no		papers_openalex_llm_xai/10.22331_q-2023-04-13-979.pdf
+doi:10.18653/v1/2022.acl-long.69	2022	Modeling Multi-hop Question Answering as Single Sequence Prediction	yes	no		papers_openalex_llm_xai/10.18653_v1_2022.acl-long.69.pdf
+doi:10.1186/s13024-022-00523-1	2022	Alzheimer’s disease – the journey of a healthy brain into organ failure	yes	no		papers_openalex_llm_xai/10.1186_s13024-022-00523-1.pdf
+doi:10.18653/v1/2022.naacl-main.22	2022	Towards Process-Oriented, Modular, and Versatile Question Generation that Meets Educational Needs	yes	no		papers_openalex_llm_xai/10.18653_v1_2022.naacl-main.22.pdf
+doi:10.1038/s41467-023-41384-6	2023	Maintenance of pluripotency-like signature in the entire ectoderm leads to neural crest stem cell potential	yes	no	E5	papers_openalex_llm_xai/10.1038_s41467-023-41384-6.pdf
+doi:10.1051/0004-6361/202346722	2023	The spatial distribution of an aromatic molecule, C<sub>6</sub>H<sub>5</sub>CN, in the cold dark cloud TMC-1	yes	no		papers_openalex_llm_xai/10.1051_0004-6361_202346722.pdf
+doi:10.1038/s41467-023-40845-2	2023	Epigenetic inheritance is unfaithful at intermediately methylated CpG sites	yes	no		papers_openalex_llm_xai/10.1038_s41467-023-40845-2.pdf
+doi:10.7150/thno.87266	2023	Organ-on-a-chip meets artificial intelligence in drug evaluation	yes	no	E5	papers_openalex_llm_xai/10.7150_thno.87266.pdf
+doi:10.1038/s41437-023-00634-5	2023	Intragenomic rDNA variation - the product of concerted evolution, mutation, or something in between?	yes	no		papers_openalex_llm_xai/10.1038_s41437-023-00634-5.pdf
+doi:10.21468/scipostphys.15.3.079	2023	Anomalies and symmetry fractionalization	yes	no	E5	papers_openalex_llm_xai/10.21468_scipostphys.15.3.079.pdf
+doi:10.1146/annurev-genet-080320-031523	2023	Transcription–Replication Conflicts as a Source of Genome Instability	yes	no	E5	papers_openalex_llm_xai/10.1146_annurev-genet-080320-031523.pdf
+doi:10.1017/s0017816021000377	2022	Between Wisdom and Apocalypse: Reading Tosefta Soṭah Chapters 10–15	yes	no		papers_openalex_llm_xai/10.1017_s0017816021000377.pdf
+doi:10.1038/s41598-025-22979-z	2025	Prompt-dependent performance of multimodal AI model in oral diagnosis: a comprehensive analysis of accuracy, narrative quality, calibration, and latency versus human experts	maybe	no	E4	papers_openalex_llm_xai/10.1038_s41598-025-22979-z.pdf
+doi:10.3389/fdsfr.2024.1379260	2024	Assessing the performance of large language models in literature screening for pharmacovigilance: a comparative study	maybe	no		papers_openalex_llm_xai/10.3389_fdsfr.2024.1379260.pdf
+doi:10.1038/s42256-024-00832-8	2024	Augmenting large language models with chemistry tools	maybe	no		papers_openalex_llm_xai/10.1038_s42256-024-00832-8.pdf
+doi:10.1186/s41239-024-00448-3	2024	Embracing the future of Artificial Intelligence in the classroom: the relevance of AI literacy, prompt engineering, and critical thinking in modern education	maybe	no	E4	papers_openalex_llm_xai/10.1186_s41239-024-00448-3.pdf
+doi:10.1146/annurev-orgpsych-110721-040030	2023	Common Method Bias: It's Bad, It's Complex, It's Widespread, and It's Not Easy to Fix	maybe	no		papers_openalex_llm_xai/10.1146_annurev-orgpsych-110721-040030.pdf
+doi:10.1038/s41579-023-00878-2	2023	The evolution of SARS-CoV-2	maybe	no		papers_openalex_llm_xai/10.1038_s41579-023-00878-2.pdf
+doi:10.1038/s41392-023-01486-5	2023	Role of neuroinflammation in neurodegeneration development	maybe	no		papers_openalex_llm_xai/10.1038_s41392-023-01486-5.pdf
+doi:10.1038/s41392-022-01259-6	2023	Targeting integrin pathways: mechanisms and advances in therapy	maybe	no		papers_openalex_llm_xai/10.1038_s41392-022-01259-6.pdf
+doi:10.1038/s41392-022-01056-1	2022	Pseudomonas aeruginosa: pathogenesis, virulence factors, antibiotic resistance, interaction with host, technology advances and emerging therapeutics	maybe	no		papers_openalex_llm_xai/10.1038_s41392-022-01056-1.pdf
+doi:10.1038/s41392-022-01151-3	2022	Lactate metabolism in human health and disease	maybe	no		papers_openalex_llm_xai/10.1038_s41392-022-01151-3.pdf
+doi:10.1186/s40561-022-00205-x	2022	Is Metaverse in education a blessing or a curse: a combined content and bibliometric analysis	maybe	no		papers_openalex_llm_xai/10.1186_s40561-022-00205-x.pdf
+doi:10.1146/annurev-economics-051420-110410	2022	The Economic Impacts of the US–China Trade War	maybe	no		papers_openalex_llm_xai/10.1146_annurev-economics-051420-110410.pdf
+doi:10.1186/s40537-022-00652-w	2022	Transfer learning: a friendly introduction	maybe	no		papers_openalex_llm_xai/10.1186_s40537-022-00652-w.pdf
+doi:10.1038/s41579-022-00807-9	2022	The effects of the COVID-19 pandemic on community respiratory virus activity	maybe	no		papers_openalex_llm_xai/10.1038_s41579-022-00807-9.pdf
+doi:10.3389/fnint.2022.871227	2022	Polyvagal Theory: A Science of Safety	maybe	no		papers_openalex_llm_xai/10.3389_fnint.2022.871227.pdf
+doi:10.3389/fphar.2023.1147414	2023	Research progress of glutathione peroxidase family (GPX) in redoxidation	maybe	no		papers_openalex_llm_xai/10.3389_fphar.2023.1147414.pdf
+doi:10.3389/fimmu.2022.840245	2022	Lactobacillus spp. for Gastrointestinal Health: Current and Future Perspectives	maybe	yes		papers_openalex_llm_xai/10.3389_fimmu.2022.840245.pdf
+doi:10.1038/s43588-023-00527-x	2023	Human-like intuitive behavior and reasoning biases emerged in large language models but disappeared in ChatGPT	maybe	no		papers_openalex_llm_xai/10.1038_s43588-023-00527-x.pdf
+doi:10.3389/fpsyg.2022.1015921	2023	Social exchange theory: Systematic review and future directions	maybe	yes		papers_openalex_llm_xai/10.3389_fpsyg.2022.1015921.pdf
+doi:10.18653/v1/2022.acl-long.244	2022	Cross-Task Generalization via Natural Language Crowdsourcing Instructions	maybe	no		papers_openalex_llm_xai/10.18653_v1_2022.acl-long.244.pdf
+doi:10.1038/s41392-022-00934-y	2022	Notch signaling pathway: architecture, disease, and therapeutics	maybe	no		papers_openalex_llm_xai/10.1038_s41392-022-00934-y.pdf
+doi:10.1038/s41467-022-32550-3	2022	Generalization in quantum machine learning from few training data	maybe	no		papers_openalex_llm_xai/10.1038_s41467-022-32550-3.pdf
+doi:10.1017/s0140525x22001157	2022	Conviction Narrative Theory: A theory of choice under radical uncertainty	maybe	no		papers_openalex_llm_xai/10.1017_s0140525x22001157.pdf
+doi:10.1186/s13045-022-01392-3	2022	Targeting cell death pathways for cancer therapy: recent developments in necroptosis, pyroptosis, ferroptosis, and cuproptosis research	maybe	no		papers_openalex_llm_xai/10.1186_s13045-022-01392-3.pdf
+doi:10.1039/d1ee02540f	2022	Toward low-cost biological and hybrid biological/catalytic conversion of cellulosic biomass to fuels	maybe	no	E4	papers_openalex_llm_xai/10.1039_d1ee02540f.pdf
+doi:10.5267/j.uscm.2022.8.009	2022	The influence of supply chain partners’ integrations on organizational performance: The moderating role of trust	maybe	no	E3	papers_openalex_llm_xai/10.5267_j.uscm.2022.8.009.pdf
+doi:10.1136/gutjnl-2022-328166	2022	Advancing human gut microbiota research by considering gut transit time	maybe	no		papers_openalex_llm_xai/10.1136_gutjnl-2022-328166.pdf
+doi:10.1038/s41587-023-01793-w	2023	Pangenome graph construction from genome alignments with Minigraph-Cactus	maybe	no	E5	papers_openalex_llm_xai/10.1038_s41587-023-01793-w.pdf
+doi:10.1038/s41586-022-04996-4	2022	Social capital I: measurement and associations with economic mobility	maybe	no		papers_openalex_llm_xai/10.1038_s41586-022-04996-4.pdf
+doi:10.1038/s41586-023-06160-y	2023	Health system-scale language models are all-purpose prediction engines	maybe	no		papers_openalex_llm_xai/10.1038_s41586-023-06160-y.pdf
+doi:10.1186/s13046-022-02485-0	2022	Elesclomol: a copper ionophore targeting mitochondrial metabolism for cancer therapy	maybe	no	E2	papers_openalex_llm_xai/10.1186_s13046-022-02485-0.pdf
+doi:10.1186/s13102-022-00397-2	2022	The effect of exercise on cytokines: implications for musculoskeletal health: a narrative review	maybe	yes	E2	papers_openalex_llm_xai/10.1186_s13102-022-00397-2.pdf
+doi:10.37074/jalt.2023.6.1.23	2023	War of the chatbots: Bard, Bing Chat, ChatGPT, Ernie and beyond. The new AI gold rush and its impact on higher education	maybe	no		papers_openalex_llm_xai/10.37074_jalt.2023.6.1.23.pdf
+doi:10.1039/d2cp00847e	2022	Understanding specific ion effects and the Hofmeister series	maybe	no		papers_openalex_llm_xai/10.1039_d2cp00847e.pdf
+doi:10.1038/s41467-022-35370-7	2022	Condensates formed by prion-like low-complexity domains have small-world network structures and interfaces defined by expanded conformations	maybe	no		papers_openalex_llm_xai/10.1038_s41467-022-35370-7.pdf
+doi:10.1038/s41573-022-00495-3	2022	Antibodies to combat viral infections: development strategies and progress	maybe	no		papers_openalex_llm_xai/10.1038_s41573-022-00495-3.pdf
+doi:10.3389/frvir.2022.914392	2022	A Separate Reality: An Update on Place Illusion and Plausibility in Virtual Reality	maybe	no		papers_openalex_llm_xai/10.3389_frvir.2022.914392.pdf
+doi:10.1088/1361-6404/ad1420	2023	How understanding large language models can inform the use of ChatGPT in physics education	maybe	no		papers_openalex_llm_xai/10.1088_1361-6404_ad1420.pdf
+doi:10.1038/s41746-024-01074-z	2024	Foundation metrics for evaluating effectiveness of healthcare conversations powered by generative AI	maybe	no	E2	papers_openalex_llm_xai/10.1038_s41746-024-01074-z.pdf
+doi:10.1038/s41593-022-01026-4	2022	Shared computational principles for language processing in humans and deep language models	maybe	no	E5	papers_openalex_llm_xai/10.1038_s41593-022-01026-4.pdf
+doi:10.1186/s13045-023-01453-1	2023	Amino acid metabolism in immune cells: essential regulators of the effector functions, and promising opportunities to enhance cancer immunotherapy	maybe	no		papers_openalex_llm_xai/10.1186_s13045-023-01453-1.pdf
+doi:10.1038/s41392-024-01803-6	2024	G protein-coupled receptors (GPCRs): advances in structures, mechanisms and drug discovery	maybe	no		papers_openalex_llm_xai/10.1038_s41392-024-01803-6.pdf
+doi:10.47536/jcrm.v3i1.902	2023	Geographic and seasonal variation of blue whale calls in the North Pacific	maybe	no		papers_openalex_llm_xai/10.47536_jcrm.v3i1.902.pdf
+doi:10.1186/s12967-022-03691-2	2022	Causality of genetically determined metabolites on anxiety disorders: a two-sample Mendelian randomization study	maybe	no	E2	papers_openalex_llm_xai/10.1186_s12967-022-03691-2.pdf
+doi:10.1039/d1cs00519g	2022	Calcium carbonate: controlled synthesis, surface functionalization, and nanostructured materials	maybe	no		papers_openalex_llm_xai/10.1039_d1cs00519g.pdf
+doi:10.1038/s41419-023-06154-8	2023	Autophagy: Regulator of cell death	maybe	no		papers_openalex_llm_xai/10.1038_s41419-023-06154-8.pdf
+doi:10.3946/kjme.2023.253	2023	The impending impacts of large language models on medical education	maybe	no		papers_openalex_llm_xai/10.3946_kjme.2023.253.pdf
+doi:10.1186/s13195-023-01218-5	2023	A peripheral signature of Alzheimer’s disease featuring microbiota-gut-brain axis markers	maybe	no	E5	papers_openalex_llm_xai/10.1186_s13195-023-01218-5.pdf
+doi:10.1186/s13045-022-01325-0	2022	Immune checkpoint modulators in cancer immunotherapy: recent advances and emerging concepts	yes	no		papers_openalex_llm_xai/10.1186_s13045-022-01325-0.pdf
+doi:10.1017/sus.2024.1	2024	Global polycrisis: the causal mechanisms of crisis entanglement	maybe	no		papers_openalex_llm_xai/10.1017_sus.2024.1.pdf
+doi:10.1609/aaai.v39i15.33791	2025	Towards Unifying Evaluation of Counterfactual Explanations: Leveraging Large Language Models for Human-Centric Assessments	yes	no		papers_openalex_llm_xai/10.1609_aaai.v39i15.33791.pdf
+doi:10.1186/s40561-023-00260-y	2023	Artificial intelligence in intelligent tutoring systems toward sustainable education: a systematic review	yes	yes		papers_openalex_llm_xai/10.1186_s40561-023-00260-y.pdf
+doi:10.1038/s41524-022-00884-7	2022	Explainable machine learning in materials science	yes	no		papers_openalex_llm_xai/10.1038_s41524-022-00884-7.pdf
+doi:10.24963/ijcai.2022/778	2022	The Shapley Value in Machine Learning	yes	no		papers_openalex_llm_xai/10.24963_ijcai.2022_778.pdf
+doi:10.1186/s41239-021-00313-7	2022	Learning analytics dashboard: a tool for providing actionable insights to learners	yes	no		papers_openalex_llm_xai/10.1186_s41239-021-00313-7.pdf
+doi:10.18421/tem122-02	2023	Navigating the Ethical Challenges of Artificial Intelligence in Higher Education: An Analysis of Seven Global AI Ethics Policies	yes	no		papers_openalex_llm_xai/10.18421_tem122-02.pdf
+doi:10.1039/d1sc05259d	2022	Model agnostic generation of counterfactual explanations for molecules	yes	no		papers_openalex_llm_xai/10.1039_d1sc05259d.pdf
+doi:10.1038/s41586-022-04997-3	2022	Social capital II: determinants of economic connectedness	yes	no		papers_openalex_llm_xai/10.1038_s41586-022-04997-3.pdf
+doi:10.1038/s41467-022-30761-2	2022	Towards artificial general intelligence via a multimodal foundation model	yes	no		papers_openalex_llm_xai/10.1038_s41467-022-30761-2.pdf
+doi:10.2196/43251	2023	Human-Centered Design to Address Biases in Artificial Intelligence	yes	no		papers_openalex_llm_xai/10.2196_43251.pdf
+doi:10.1038/s41467-023-38192-3	2023	Chemistry-intuitive explanation of graph neural networks for molecular property prediction with substructure masking	yes	no		papers_openalex_llm_xai/10.1038_s41467-023-38192-3.pdf
+doi:10.1038/s41598-022-11012-2	2022	Interpretability and fairness evaluation of deep learning models on MIMIC-IV dataset	yes	no		papers_openalex_llm_xai/10.1038_s41598-022-11012-2.pdf
+doi:10.1146/annurev-pathmechdis-051222-113147	2023	Toward Explainable Artificial Intelligence for Precision Pathology	yes	no	E2	papers_openalex_llm_xai/10.1146_annurev-pathmechdis-051222-113147.pdf
