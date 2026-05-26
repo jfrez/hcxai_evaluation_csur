@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use these open materials, please cite the Zenodo archive and the associated manuscript."
+title: "Open materials for Evaluating Explainable AI with Humans: Trust, Reliance, Understanding, and Performance"
+version: "1.0.0"
+date-released: "2026-05-25"
+type: dataset
+authors:
+  - family-names: Frez
+    given-names: Jonathan
+    affiliation: Universidad Diego Portales
+  - family-names: Baloian
+    given-names: Nelson
+    affiliation: Universidad de Chile
+  - family-names: Ahumada
+    given-names: Luciano
+    affiliation: Universidad Diego Portales
+keywords:
+  - explainable AI
+  - interpretability
+  - human-centered evaluation
+  - trust
+  - reliance
+  - mental models
+  - reporting guidelines
+license: CC-BY-4.0
+abstract: "Open corpus, extraction, and theme-mapping materials supporting a structured survey of human-centered evaluation of explainable AI."
